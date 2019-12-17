@@ -24,7 +24,7 @@ The project has to deal with the following :
 - Inclination of the captcha to the left or right
 - Distortion of numbers and letters
 - Background noise 
-- Character separation using contours
+- Character separation
 
 ### Github Account
 - [BodorAl](https://github.com/Bodoral?tab=repositories)
