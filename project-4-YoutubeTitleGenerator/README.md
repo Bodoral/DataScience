@@ -8,7 +8,7 @@ This project aim to propos a title for Saudi youtube videos using  NLP and seque
 ## Approche 
 
 - cleaning
-- NLP
+- preprocessing
 - train model
 - test model
 - generate titles
