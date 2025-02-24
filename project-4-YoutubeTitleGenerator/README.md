@@ -5,10 +5,9 @@ This project aim to propos a title for Saudi youtube videos using seq-seq models
 
  
 
-## Approche 
+## Steps 
 
-- cleaning
-- preprocessing
+- cleaning and preprocessing
 - train model
 - test model
 - generate titles
