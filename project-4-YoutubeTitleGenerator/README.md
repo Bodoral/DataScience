@@ -1,6 +1,6 @@
 # Youtube Video Title Generator
 
-This project aim to propos a title for Saudi youtube videos using  NLP and sequence models.
+This project aim to propos a title for Saudi youtube videos using seq-seq models.
 
 
  
